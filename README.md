@@ -1,14 +1,14 @@
 # Customer Churn Prediction using Logistic Regression
 
-**Author:** Akshat Garg  
+## Details
 
-**Registration Number:** 23BCE10641 
+- Name : Shubhdeep Singh
+- Application No. : IN26011804
+- College Reg. No. : 23BCE11460
+- Batch No. : 1(A)
+- Email Id : shubhdeep.23bce11460@vitbhopal.ac.in
 
-**Application Number:** IN26011052
-
-**Batch Number:** 1A
-
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+---
 
 ## Objective
 The objective of this project is to build a Logistic Regression model to predict customer churn for a telecommunications company based on customer demographics and service usage patterns.
