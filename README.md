@@ -16,13 +16,6 @@ The objective of this project is to build a Logistic Regression model to predict
 ## Dataset Link
 - [Kaggle: Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-## Libraries Used
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
-- `kaggle`
 
 ## Methodology
 1. **Data Understanding**: Loaded the dataset and categorized features into numerical and categorical components while isolating `Churn` as the target variable.
